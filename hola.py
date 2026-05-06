@@ -1,0 +1,1 @@
+print("Hola, el sistema dio 'fatica' pero ya esta listo")
